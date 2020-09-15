@@ -1,6 +1,6 @@
 # MJ's PCB Ruler
 
-A open-source low-cost 10x10cm PCB ruler.
+An open-source low-cost 10x10cm PCB ruler.
 
 ## PCB Ruler Preview
 
