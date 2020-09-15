@@ -4,9 +4,9 @@ A open-source low-cost 10x10cm PCB ruler.
 
 ## PCB Ruler Preview
 
-![Top](MJs PCB Ruler - Top.png)
+![Top](MJ's PCB Ruler - Top.png)
 
-![Bottom](MJs PCB Ruler - Bottom.png)
+![Bottom](MJ's PCB Ruler - Bottom.png)
 
 ## Clone The Project from EasyEDA
 
